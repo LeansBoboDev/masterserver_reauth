@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "masterserverreauth",
+    "name": "MasterServerReAuth",
+    "authors": [
+        "Unknown"
+    ],
+    "description": "Retries master server registration when the initial register request times out or fails, instead of requiring a server restart.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.22.0"
+    }
+}
