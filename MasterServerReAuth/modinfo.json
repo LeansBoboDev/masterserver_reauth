@@ -8,6 +8,7 @@
     ],
     "description": "Retries master server registration when the initial register request times out or fails, instead of requiring a server restart.",
     "version": "1.0.0",
+    "Side": "Server",
     "dependencies": {
         "game": "1.22.0"
     }
